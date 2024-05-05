@@ -5,7 +5,7 @@
 }
 
  .navbar-container {
-    border: 2px solid orange;
+/*     border: 2px solid orange; */
     margin-top: 50px;
     display: flex;
     justify-content:space-evenly;
@@ -44,7 +44,7 @@
         border-radius: 10px;
      }
       .extra-container{
-        border: 2px solid olivedrab;
+/*         border: 2px solid olivedrab; */
         display: flex;
         position: absolute;
         margin-left: 500px;
@@ -89,7 +89,7 @@
      
      
      .hero-container{
-        border: 2px solid green;
+/*         border: 2px solid green; */
          display: flex;
          align-items:center;
      
@@ -102,7 +102,7 @@
          padding-left:-50px;
      }
     .hero-heading{ 
-        border: 2px solid black;
+/*         border: 2px solid black; */
         padding-top: 180px;
         margin-right: 250px;
         font-size:70px;
@@ -110,7 +110,7 @@
 
     }
     .hero-description{
-        border: 2px solid darkblue;
+/*         border: 2px solid darkblue; */
         font-size: 15px;
         justify-content: space-between;
         padding-left: 70px;
@@ -121,7 +121,7 @@
     
     }
     .button-email{
-        border: 2px solid black;
+/*         border: 2px solid black; */
         margin-top:10px;
         height: 30px;
         width: 250px;
@@ -144,19 +144,19 @@
         
         padding-right: px;
     
-       border: solid black;
+/*        border: solid black; */
        margin-right: 500px;
        padding-left: 300px;
     } 
     .contact-heading{
           padding-left: 50px;
-         border: solid black;
+/*          border: solid black; */
          margin-bottom: 20px;
          font-size: 20px;
     
     }
     .icons{
-    border: solid red;
+/*     border: solid red; */
     display: flex;
     flex-direction: row-reverse;
     
